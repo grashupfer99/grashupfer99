@@ -34,6 +34,12 @@
 - :tongue: I’m currently developing for iOS, Android and Web. 
 - 🤔 I’m looking for help to improve as a scrum master.
 - 💬 Ask me about my life in Korea.
-- 📫 You can reach me: [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexkhant/)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexkhant/)
 
+---
 
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=grashupfer99&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grashupfer99&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
