@@ -30,11 +30,10 @@
   
   I am a Frontend Developer :kr: from South Korea.
   
-- 🔭 I’m currently working hard to make [Better](https://betterday.co.kr) better
+- 🔭 I’m currently working hard to make [Better](https://betterday.co.kr) better.
 - :tongue: I’m currently developing for iOS, Android and Web. 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help to improve as a scrum master
+- 🤔 I’m looking for help to improve as a scrum master.
 - 💬 Ask me about my life in Korea.
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexkhant/)
+- 📫 You can reach me: [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexkhant/)
 
 
