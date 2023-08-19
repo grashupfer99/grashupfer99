@@ -13,7 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=your-github-grashupfer99&style=flat-square&color=blue" alt=""/>
 
   <h1>
-    Hi there
+    Hello World!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 
@@ -28,12 +28,11 @@
 
   ### :point_right: About Me :
   
-  I am a Frontend Developer :kr: from South Korea.
+  Based out of Seoul, :kr: South Korea, I'm a software developer specializing in web and hybrid fintech applications.
   
-- 🔭 I’m currently working hard to make [Better](https://betterday.co.kr) better.
-- :tongue: I’m currently developing for iOS, Android and Web. 
-- 🤔 I’m looking for help to improve as a scrum master.
-- 💬 Ask me about my life in Korea.
+- I’m building a new SAAS software platform system
+- 🤔 I'm trying to improve my scrum master skills
+- 💬 Ask me anything
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexkhant/)
 
 ---
